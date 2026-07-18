@@ -1,0 +1,6 @@
+.venv/
+myvenv/
+__pycache__/
+*.py[cod]
+*.log
+.streamlit/
